@@ -1,7 +1,7 @@
 # Eaeee! me chamo deivid tenho 22 anos.
 
 - 👨🏻‍💻 Em busca de uma oportunidade.
-- 👨🏻‍🎓 Estudando JavaSript para back-end e APIs
+- 👨🏻‍🎓 Estudando Java para back-end 
 - 📘 HTML/CSS/JavaScript
 
 <div align="center">
