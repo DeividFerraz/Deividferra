@@ -1,4 +1,4 @@
-# Eaeee! me chamo deivid tenho 22 anos.
+# Eaeee! me chamo Deivid tenho 23 anos.
 
 - 👨🏻‍💻 Em busca de uma oportunidade.
 - 👨🏻‍🎓 Estudando Java para back-end 
